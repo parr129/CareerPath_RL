@@ -24,6 +24,8 @@ Constraint: A bankruptcy threshold of -₹200,000 forces the agent to carefully 
 Performance Analysis: The “Underdog” Strategy
 
 In simulation, the Tier-5 agent converges toward a strategy that reflects realistic career behavior under constraints.
+<img width="862" height="470" alt="image" src="https://github.com/user-attachments/assets/c7bf8865-321d-4aa4-9ed7-707e46e0a8ad" />
+
 
 Phase 1: Human Capital Investment (Month 1–2)
 The agent prioritizes upskilling despite limited savings (₹5,000), recognizing that without skills, upward mobility is unlikely.
