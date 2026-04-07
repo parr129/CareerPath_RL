@@ -1,6 +1,6 @@
-streamlit
+streamlit>=1.32.0
+plotly>=5.18.0
 torch
 numpy
 pandas
-plotly
 gymnasium
